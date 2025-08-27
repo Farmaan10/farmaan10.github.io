@@ -1,0 +1,18 @@
+title: Farmaan Syed - AI Engineer / Data Scientist
+description: Early-career professional passionate about AI and data science.
+baseurl: ""
+url: "https://farmaan10.github.io"
+
+theme: minima
+
+header_pages:
+  - about.md
+  - experience.md
+  - projects.md
+  - research.md
+  - other-experiences.md
+
+minima:
+  social_links:
+    github: yourusername
+    linkedin: yourusername
