@@ -44,4 +44,4 @@ Git, GitHub, Hugging Face, OpenAI API, MySQL, Tableau, MS Excel, Microsoft Offic
 - Introduction to Data Science in Python
 - Neural Networks and Deep Learning
 
-Download my CV: [Download CV](../assets/cv.pdf)
+Download my CV: [Download CV](../assets/Farmaan Syed Resume.pdf)
