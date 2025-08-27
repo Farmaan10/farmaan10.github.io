@@ -24,4 +24,4 @@ permalink: /projects/
 
 Explore more in my [GitHub repositories](https://github.com/Farmaan10?tab=repositories).
 
-Download my CV: [Download CV](../assets/cv.pdf)
+Download my CV: [Download CV](../assets/Farmaan Syed Resume.pdf)
