@@ -14,7 +14,7 @@ Hello! I'm Farmaan Syed, an early-career AI Engineer and Data Scientist. Explore
 - **[Education](/education/)**: Academic background and certifications.
 - **[Other Experiences](/other-experiences/)**: Extracurriculars, volunteering, etc.
 
-Download my CV: [Download CV](assets/cv.pdf) 
+Download my CV: [Download CV](assets/Farmaan Syed Resume.pdf) 
 
 ## Quick Highlights
 - Skilled in Python, R, and Tableau.
